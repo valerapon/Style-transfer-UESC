@@ -3,7 +3,7 @@ This is realizaion of Automatic style transfer for images using extended styles 
 
 <img src="images/compare2.jpg">  
 
-## Art movement recognition  
+## Art movement recognition scheme  
 <img src="images/scheme.png">  
 
 ## Similar images
