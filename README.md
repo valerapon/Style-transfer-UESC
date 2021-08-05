@@ -6,6 +6,9 @@ This is realizaion of Automatic style transfer for images using extended styles 
 ## Art movement recognition  
 <img src="images/scheme.png">  
 
+## Similar images
+<img src="images/similar.jpg">  
+
 All results of programs is in `output` folder.  
 ## Stylization  
 `python test.py --content <content path> --style <style path>`  
