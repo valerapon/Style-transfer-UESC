@@ -1,4 +1,5 @@
 # Style-transfer-using-extended-styles-collection
+<img src="images/scheme.png" width="1000">  
 
 All results of programs is in `output` folder.  
 ## Stylization  
