@@ -1,5 +1,10 @@
-# Style-transfer-using-extended-styles-collection
-<img src="images/scheme.png" width="1000">  
+# Style-transfer-using-extended-styles-collection  
+This is realizaion of Automatic style transfer for images using extended styles collection.  
+
+<img src="images/compare2.jpg">  
+
+## Art movement recognition  
+<img src="images/scheme.png">  
 
 All results of programs is in `output` folder.  
 ## Stylization  
@@ -7,4 +12,9 @@ All results of programs is in `output` folder.
 ## Database creating  
 `python ./create_database.py`  
 ## Training
-`python ./train.py`
+`python ./train.py`  
+## Examples  
+
+<img src="images/compare1.jpg">  
+<img src="images/compare3.jpg"> 
+<img src="images/compare4.jpg"> 
