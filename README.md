@@ -18,6 +18,8 @@ All results of programs is in `output` folder.
 `python ./train.py`  
 ## Examples  
 
-<img src="images/compare1.jpg">  
-<img src="images/compare3.jpg"> 
-<img src="images/compare4.jpg"> 
+<img src="images/compare1.jpg">   
+
+<img src="images/compare3.jpg">   
+
+<img src="images/compare4.jpg">  
